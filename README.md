@@ -92,4 +92,3 @@ You can run multiple clients by repeating Step 4 in separate terminal windows.
 
 ---
 
-Enjoy building and using your distributed file storage system!
